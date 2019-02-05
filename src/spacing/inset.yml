@@ -1,0 +1,24 @@
+---
+global:
+  type: unit
+  category: spacing
+
+imports:
+- ./aliases.yml
+
+props:
+  - name: spacing-inset-xs
+    value: '{!spacing-xx-small}'
+    category: spacing-inset
+
+  - name: spacing-inset-sm
+    value: '{!spacing-x-small}'
+    category: spacing-inset
+
+  - name: spacing-inset-md
+    value: '{!spacing-medium}'
+    category: spacing-inset
+
+  - name: spacing-inset-lg
+    value: '{!spacing-large}'
+    category: spacing-inset

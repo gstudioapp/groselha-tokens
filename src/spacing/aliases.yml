@@ -1,0 +1,13 @@
+---
+global:
+  type: aliases
+  category: spacing-scale
+
+aliases:
+  spacing-xxx-small: '4px'
+  spacing-xx-small:  '8px'
+  spacing-x-small:   '16px'
+  spacing-small:     '24px'
+  spacing-medium:    '32px'
+  spacing-large:     '48px'
+  spacing-x-large:   '64px'

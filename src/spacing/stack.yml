@@ -1,0 +1,36 @@
+---
+global:
+  type: unit
+  category: spacing
+
+imports:
+- ./aliases.yml
+
+props:
+  - name: spacing-stack-xxxs
+    value: '{!spacing-xxx-small}'
+    category: spacing-stack
+
+  - name: spacing-stack-xxs
+    value: '{!spacing-xx-small}'
+    category: spacing-stack
+
+  - name: spacing-stack-xs
+    value: '{!spacing-x-small}'
+    category: spacing-stack
+
+  - name: spacing-stack-sm
+    value: '{!spacing-x-small}'
+    category: spacing-stack
+
+  - name: spacing-stack-md
+    value: '{!spacing-medium}'
+    category: spacing-stack
+
+  - name: spacing-stack-lg
+    value: '{!spacing-large}'
+    category: spacing-stack
+
+  - name: spacing-stack-xl
+    value: '{!spacing-x-large}'
+    category: spacing-stack

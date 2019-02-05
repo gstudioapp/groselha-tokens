@@ -1,0 +1,14 @@
+---
+global:
+  type: color
+  category: category-color
+
+imports:
+  - ./aliases.yml
+
+props:
+  - name: color-neutral
+    value: '{!color-gray}'
+    meta:
+      friendlyName: Color Neutral
+    category: neutral-color

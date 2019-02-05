@@ -1,0 +1,21 @@
+---
+global:
+  type: unit
+  category: border
+
+props:
+  - name: border-width-none
+    value: 0
+    category: border-width
+
+  - name: border-width-thin
+    value: '1px'
+    category: border-width
+
+  - name: border-width-medium
+    value: '2px'
+    category: border-width
+
+  - name: border-width-thick
+    value: '16px'
+    category: border-width

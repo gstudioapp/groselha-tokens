@@ -1,0 +1,9 @@
+---
+global:
+  type: number
+  category: shadow
+
+props:
+  - name: shadow-offset-x-none
+    value: 0
+    category: shadow-offset-x

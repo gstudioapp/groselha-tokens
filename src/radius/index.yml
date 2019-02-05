@@ -1,0 +1,23 @@
+---
+global:
+  type: unit
+  category: radius
+
+props:
+  - name: border-radius-none
+    value: 0
+
+  - name: border-radius-small
+    value: '4px'
+
+  - name: border-radius-medium
+    value: '8px'
+
+  - name: border-radius-large
+    value: '24px'
+
+  - name: border-radius-pill
+    value: '500px'
+
+  - name: border-radius-circle
+    value: '50%'

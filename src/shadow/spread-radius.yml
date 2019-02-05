@@ -1,0 +1,9 @@
+---
+global:
+  type: number
+  category: shadow
+
+props:
+  - name: shadow-spread-radius-default
+    value: 0
+    category: shadow-spread-radius

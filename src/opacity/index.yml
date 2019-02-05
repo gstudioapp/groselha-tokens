@@ -1,0 +1,20 @@
+---
+global:
+  type: number
+  category: opacity
+
+props:
+  - name: opacity-semi-opaque
+    value: '0.8'
+
+  - name: opacity-intense
+    value: '0.64'
+
+  - name: opacity-medium
+    value: '0.32'
+
+  - name: opacity-light
+    value: '0.16'
+
+  - name: opacity-semi-transparent
+    value: '0.08'

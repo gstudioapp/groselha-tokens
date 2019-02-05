@@ -1,0 +1,10 @@
+---
+global:
+  type: shadow
+  category: all
+
+imports:
+  - ./offset-x.yml
+  - ./offset-y.yml
+  - ./blur-radius.yml
+  - ./spread-radius.yml

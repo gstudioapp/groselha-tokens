@@ -1,0 +1,20 @@
+---
+global:
+  type: color
+  category: category-color
+
+imports:
+  - ./aliases.yml
+
+props:
+  - name: color-brand-primary
+    value: '{!color-blue}'
+    meta:
+      friendlyName: Color Brand Primary
+    category: brand-color
+
+  - name: color-brand-secondary
+    value: '{!color-orange}'
+    meta:
+      friendlyName: Color Brand Secondary
+    category: brand-color

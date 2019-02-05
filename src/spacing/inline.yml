@@ -1,0 +1,36 @@
+---
+global:
+  type: unit
+  category: spacing
+
+imports:
+- ./aliases.yml
+
+props:
+  - name: spacing-inline-xxxs
+    value: '{!spacing-xxx-small}'
+    category: spacing-inline
+
+  - name: spacing-inline-xxs
+    value: '{!spacing-xx-small}'
+    category: spacing-inline
+
+  - name: spacing-inline-xs
+    value: '{!spacing-x-small}'
+    category: spacing-inline
+
+  - name: spacing-inline-sm
+    value: '{!spacing-x-small}'
+    category: spacing-inline
+
+  - name: spacing-inline-md
+    value: '{!spacing-medium}'
+    category: spacing-inline
+
+  - name: spacing-inline-lg
+    value: '{!spacing-large}'
+    category: spacing-inline
+
+  - name: spacing-inline-xl
+    value: '{!spacing-x-large}'
+    category: spacing-inline

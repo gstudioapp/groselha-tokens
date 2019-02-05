@@ -1,0 +1,26 @@
+---
+global:
+  type: color
+  category: category-color
+
+imports:
+  - ./aliases.yml
+
+props:
+  - name: color-support-success
+    value: '{!color-green}'
+    meta:
+      friendlyName: Color Support Success
+    category: support-color
+
+  - name: color-support-warning
+    value: '{!color-brown}'
+    meta:
+      friendlyName: Color Support Warning
+    category: support-color
+
+  - name: color-support-danger
+    value: '{!color-red}'
+    meta:
+      friendlyName: Color Support Danger
+    category: support-color

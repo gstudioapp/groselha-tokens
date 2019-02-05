@@ -1,0 +1,24 @@
+##
+## The rule is the next token's value is double the previous.
+##
+---
+global:
+  type: unit
+  category: shadow
+
+props:
+  - name: shadow-blur-radius-level-1
+    value: '8px'
+    category: shadow-blur-radius
+
+  - name: shadow-blur-radius-level-2
+    value: '16px'
+    category: shadow-blur-radius
+
+  - name: shadow-blur-radius-level-3
+    value: '32px'
+    category: shadow-blur-radius
+
+  - name: shadow-blur-radius-level-4
+    value: '64px'
+    category: shadow-blur-radius

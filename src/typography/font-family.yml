@@ -1,0 +1,15 @@
+---
+global:
+  type: string
+  category: typography
+
+props:
+  - name: font-family-base
+    value: "'Baskerville', serif"
+    type: string
+    category: font-family
+
+  - name: font-family-highlight
+    value: "'Montserrat', 'BlinkMacSystemFont', 'San Francisco', 'Segoe UI', 'Helvetica Neue', sans-serif"
+    type: string
+    category: font-family

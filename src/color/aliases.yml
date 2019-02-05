@@ -1,0 +1,12 @@
+---
+global:
+  type: aliases
+  category: pallete-color
+
+aliases:
+  color-blue:   '#00a5ed'
+  color-orange: '#ffb100'
+  color-green:  '#3cbf1a'
+  color-yellow: '#ecb429'
+  color-red:    '#bf1a1d'
+  color-gray:   '#bcc0c6'
