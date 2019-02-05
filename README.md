@@ -45,7 +45,7 @@ groselha-tokens/
 │   ├── shadow/
 │   ├── spacing/
 │   ├── typography/
-│   └── tokens,.yml
+│   └── tokens.yml
 ├── dist/
 └── [additional files]
 ```
