@@ -14,7 +14,7 @@ props:
     category: support-color
 
   - name: color-support-warning
-    value: '{!color-brown}'
+    value: '{!color-yellow}'
     meta:
       friendlyName: Color Support Warning
     category: support-color

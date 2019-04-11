@@ -18,7 +18,11 @@
     "ios": "theo src/tokens.yml --transform ios --format ios.json --dest dist",
     "android": "theo src/tokens.yml --transform android --format android.xml --dest dist"
   },
-  "keywords": ["tokens", "design tokens", "design system"],
+  "keywords": [
+    "tokens",
+    "design tokens",
+    "design system"
+  ],
   "author": "thiagokpelo",
   "license": "MIT",
   "repository": {
