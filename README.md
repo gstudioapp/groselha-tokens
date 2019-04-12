@@ -3,7 +3,7 @@
 ## Instalação do projeto
 
 ### 1. Inicie o projeto clonando o repositório de tokens:
-`$ git clone https://github.com/thiagokpelo/groselha-tokens.git`
+`$ git clone https://github.com/groselha-io/groselha-tokens.git`
 
 ### 2. Entre no diretório
 
@@ -16,8 +16,21 @@
 
 ## Como executar
 
+### Terminal
 ```
-$ node theo src/tokens.yml --transform web --format scss --dest dist"
+$ ./node_modules/.bin/theo src/tokens.yml --transform web --format scss --dest dist"
+```
+
+### Script do package.json
+```
+$ theo src/tokens.yml --transform web --format scss --dest dist"
+```
+
+### Scripts de exemplo no projeto
+```
+$ npm run web
+$ npm run ios
+$ npm run android
 ```
 
 ---
